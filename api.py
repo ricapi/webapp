@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_restful import Resource, Api
-import twitter_tools as tt
+import SERVICES.twitter_tools as tt
 
 #Crear instancia de flask
 #le damos instancia de flask a Api

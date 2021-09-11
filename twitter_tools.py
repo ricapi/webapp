@@ -1,4 +1,4 @@
-from models import Person
+from SERVICES.models import Person
 import tweepy
 from datetime import datetime, date, time, timedelta
 
